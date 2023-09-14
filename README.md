@@ -1,7 +1,5 @@
 # Finetuning Large Language Models
 
-![DeepLearning.AI Logo](https://learn.deeplearning.ai/static/images/logo.png)
-
 Welcome to the **Finetuning Large Language Models** repository! This comprehensive resource is your gateway to mastering the art of finetuning large language models (LLMs). Whether you're a seasoned practitioner or just beginning your journey, this repository, accompanying the DeepLearning.AI course on finetuning large language models, offers valuable insights and practical guidance. To access the course, click [here](https://learn.deeplearning.ai/finetuning-large-language-models).
 
 ## Course Overview
