@@ -33,9 +33,9 @@ To get started and run the example notebooks within this repository, follow thes
    pip install -r requirements.txt
    ```
 
-3. **Set Up Your Lamini API Key**: To access the full capabilities of this repository, you'll need a Lamini API key. We provide two convenient methods for your convenience:
+3. **Set Up Your Lamini API Key**: To access the full capabilities of this repository, you'll need a Lamini API key. I provide two convenient methods for your convenience:
 
-   - **Google Colab (Recommended)**: For a hassle-free experience, we recommend using the "Finetuning Large Language Models (Colab).ipynb" notebook in Google Colab. This notebook streamlines the process, including API key setup.
+   - **Google Colab (Recommended)**: For a hassle-free experience, I recommend using the "Finetuning Large Language Models (Colab).ipynb" notebook in Google Colab. This notebook streamlines the process, including API key setup.
 
    - **Local Machine**: If you prefer running the code on your local machine, follow these detailed steps:
        - Create a `.env` file in the root directory of the project.
@@ -49,12 +49,12 @@ To get started and run the example notebooks within this repository, follow thes
 
 4. **Run the Notebooks**: With your environment set up and the API key in place, you're ready to explore the course materials. Start Jupyter notebook and open the notebooks in the `notebooks/` directory.
 
-Please note that the provided instructions are based on best practices, ensuring smooth code execution. We welcome your contributions and suggestions for improvement!
+Please note that the provided instructions are based on best practices, ensuring smooth code execution. I welcome your contributions and suggestions for improvement!
 
 ## Course Resources
 You can access the complete course materials and lectures on the [DeepLearning.AI website](https://learn.deeplearning.ai/finetuning-large-language-models).
 
-If you have any queries or require further clarification, please don't hesitate to reach out. We wish you a productive and rewarding journey into the world of LLM finetuning!
+If you have any queries or require further clarification, please don't hesitate to reach out. I wish you a productive and rewarding journey into the world of LLM finetuning!
 
 **License**: This repository is open-source and operates under the MIT License, allowing you to use, modify, and distribute the code, with attribution. Please review the [LICENSE](LICENSE) file for details.
 
